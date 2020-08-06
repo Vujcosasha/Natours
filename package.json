@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "lending page for natours",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vujcosasha/Natours.git"
+  },
+  "author": "Alexander Reznichuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vujcosasha/Natours/issues"
+  },
+  "homepage": "https://github.com/Vujcosasha/Natours#readme"
+}
